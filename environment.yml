@@ -1,0 +1,16 @@
+name: pyda-reto-pokemon
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - openpyxl
+  - pathlib
+  - xlrd
+  - matplotlib
+  - ipykernel
+  - jupyterlab
+  - seaborn
+  - pandas
+  - ipywidgets
+prefix: C:\Users\ezequ\miniconda3\envs\pyda-reto-pokemon
